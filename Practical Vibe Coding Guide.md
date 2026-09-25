@@ -483,4 +483,4 @@ That means your highest-value activities become:
 * deciding what *not* to build
 * deciding which AI recommendations to accept
 
-That's the skill I'd focus on developing as you continue with your Personal Command Center.
+If you're going to keep using this approach, I'd also recommend adding one more file to your workflow eventually: DECISIONS.md. That's where you record significant architectural/product decisions and why you made them. It becomes extremely useful when, three months later, an agent says "we should replace SQLite with X" and you can see why you originally chose SQLite.
